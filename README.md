@@ -5,7 +5,8 @@ This is a simple crowdfunding application built with Hardhat and Solidity.
 
 ## Prerequisites:
 
-Node.js 
+Node.js
+
 yarn
 
 ## Clone the repository:
