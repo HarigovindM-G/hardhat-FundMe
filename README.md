@@ -1,13 +1,26 @@
-# Sample Hardhat Project
+# FundMe Hardhat Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This is a simple crowdfunding application built with Hardhat and Solidity.
 
-Try running some of the following tasks:
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat ignition deploy ./ignition/modules/Lock.js
-```
+## Prerequisites:
+
+Node.js 
+yarn
+
+## Clone the repository:
+
+`git clone https://github.com/HarigovindM-G/hardhat-FundMe`
+
+## Install dependencies:
+
+`yarn install `
+
+## Running the project:
+
+### Running tests
+`yarn hardhat test`
+
+### Deploying the contract
+`yarn hardhat deploy --network <network-name>`
+
